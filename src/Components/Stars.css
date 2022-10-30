@@ -1,0 +1,63 @@
+
+
+.btnofproblem
+{
+    background-color: antiquewhite;
+    color: aqua;
+    border: none;
+}
+
+.star
+{
+    margin-bottom: 20px;
+}
+
+input[type="radio"]
+{
+    display: none;
+}
+
+.parentOfAllDivProblems
+{
+    background-color: #e4e5e9;
+}
+
+.allstars
+{
+    background-color: aliceblue;
+}
+.message
+{
+    background-color: greenyellow;
+    color: white;
+    text-align: center;
+  
+}
+
+
+.pointer:active{
+    pointer-events: none;
+    background-color: red;
+    opacity: .2;
+    color:aqua ;
+    }
+
+.togle--close
+{
+  background-color: red;
+}
+
+.buttonactive-toogle
+{
+    background-color: rebeccapurple;
+}
+.sorry
+{
+   font-size: 20px;
+}
+
+.another
+{
+    background-color: red;
+}
+
